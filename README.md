@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Chen Lin | Technical Project Manager 🚀
 
-<!--
-**Chenln04/Chenln04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical-focused PM student with a background in Multimedia Engineering. 
+I bridge the gap between complex technical requirements and business value.
 
-Here are some ideas to get you started:
+### 🎯 Professional Focus
+* **Region:** Target DACH (Germany/Austria) for 2027.
+* **Core Skills:** Agile/Scrum, Stakeholder Management, Risk Mitigation, UI/UX Strategy.
+* **Certifications:**
+  * Google Project Management
+  * Scrum Fundamentals
+  * In progress: PSM I
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Highlight: Operational Excellence
+Improved customer satisfaction from **4.3 to 4.6** in high-pressure hospitality 
+environments by optimizing team workflows and QA processes.
