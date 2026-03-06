@@ -37,7 +37,7 @@ I am a 3rd-year **Digital Technology & Multimedia Engineering** student at Unive
 
 ## 🚀 Key Project Case Studies
 
-### 📂 [Travel-o | AI-Driven Product Coordination](https://github.com/TU-USUARIO/Travel-o-Management)
+### 📂 [Travel-o | AI-Driven Product Coordination](https://github.com/Chenln04/Travel-o-Managment.git)
 * **Role**: Project Coordinator (Team of 4).
 * **Execution**: Led the project lifecycle from initial scope definition to MVP prototyping, utilizing Trello for progress tracking.
 
