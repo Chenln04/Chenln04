@@ -5,10 +5,13 @@ I am a 3rd-year student at UPV specializing in digital product lifecycles. I enj
 
 ---
 
-## 🌍 DACH Region Focus
-* **Objective**: Seeking a **Curricular Internship or Werkstudent** role in Germany, Austria, or Switzerland starting **February 2027**.
-* **Languages**: Spanish (Native), English (C1), German (A2/improving), Chinese (Functional).
-
+## 🌍 Global Mobility & International Opportunities
+* **Objective**: Seeking a **Technical Project Support or PMO Intern** role within international tech hubs (including Poland, Czech Republic, and the DACH region) starting **February 2027**.
+* **Relocation**: Open to relocation across major European technology clusters.
+* **Multilingual Asset**: 
+    * **Spanish & Chinese**: Native/Functional.
+    * **English**: C1 Advanced.
+    * **German**: A2 (Actively improving for long-term integration).
 ---
 
 ## 🛠️ Management & Technical Skills (Academic & Simulation)
